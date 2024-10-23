@@ -53,8 +53,10 @@ h1,h2,h3 {
 img {
     max-width: 100%;
 }
+
 main {
     margin-block: 40px;
+    gap: 80px;
 }
 
 .content-tag {
